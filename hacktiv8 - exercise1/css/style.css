@@ -1,0 +1,44 @@
+.myprofile a{
+    color:#FFF;
+}
+
+.jumbo-profile{
+    text-align: center;
+}
+
+.img-profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: 5px solid #FFF; 
+}
+
+.about{
+    padding:top:10px;
+    margin-bottom:20px;
+}
+
+.myabout{
+    text-align: justify;
+}
+
+.family img{
+    height: 200px;
+    width: 300px;
+}
+
+.contact-us{
+    background-color: #EEE;
+    padding-top:10px;
+    padding-bottom:20px;
+}
+
+.footer{
+    background-color: #333;
+    height: 100%;
+}
+
+.footer p{
+    padding-top:10px;
+    color: #FFF;
+}
